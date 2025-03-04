@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, C# and C**
 
-- 💬 Ask me about **Python, CSS**
+- 💬 Ask me about **Python, CSS and HTML**
 
 - 📫 How to reach me **kahnyytwhite@gmail.com**
 
